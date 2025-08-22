@@ -2,7 +2,7 @@
 
 Aspiring Full-Stack Developer | Python & Java
 
-📧 Contact: harshidha123@gmail.com
+📧 Contact: harshidha2606@gmail.com
 
 💻 Skills:
 - Python | Java | JavaScript
