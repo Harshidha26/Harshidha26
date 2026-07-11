@@ -1,4 +1,4 @@
-## Hi there, I’m Harshidha 👋
+## Hi there, I’m Gokila Harshidha Sridhar👋
 
 Aspiring Full-Stack Developer | Python & Java
 
@@ -8,6 +8,7 @@ Aspiring Full-Stack Developer | Python & Java
 - Python | Java | JavaScript
 - Web Development (HTML, CSS, React)
 - DSA Practice
+- Machine Learning
 
 🛠 Currently learning:
 - Advanced DSA
